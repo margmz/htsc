@@ -109,7 +109,7 @@ Start interacting with the ledger.
 node ledgerActions.js GetAllAssets
 
 # Get a particular asset
-node.ledgerActions.js ReadAsset asset1
+node ledgerActions.js ReadAsset asset1
 
 # Create and update an asset
 node ledgerActions.js CreateAsset
